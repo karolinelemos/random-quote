@@ -1,2 +1,4 @@
+## Project 1 ##
 Random Quote Generator for 100 days of Javascript  
-Project 1.
+
+[Link to Project](https://github.com/karolinelemos/random-quote)
